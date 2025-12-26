@@ -1,0 +1,11 @@
+# MedNet.one Spine
+
+Secure biometrics vault + clinician modules. Child ID live.
+
+- Purpose: Securely store and manage biometric templates and clinician-facing modules for Child ID functionality.
+- Public MVP: Day 1 expert hooks; repository is public by design.
+- Stack: JavaScript (Lovable.ai)
+
+Security & privacy
+- Never commit raw biometric data, PHI, secrets, or private keys.
+- Use encrypted storage and access controls for any biometric or child-related data.

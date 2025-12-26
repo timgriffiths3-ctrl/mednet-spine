@@ -1,0 +1,9 @@
+{
+  "name": "mednet-spine",
+  "version": "1.0.0",
+  "description": "MedNet.one spine: secure biometrics vault + clinician modules",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}

@@ -1,9 +1,21 @@
 {
   "name": "mednet-spine",
   "version": "1.0.0",
-  "description": "MedNet.one spine: secure biometrics vault + clinician modules",
+  "description": "Secure biometrics vault + clinician modules. Child ID live.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timgriffiths3-ctrl/mednet-spine.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/timgriffiths3-ctrl/mednet-spine/issues"
+  },
+  "homepage": "https://github.com/timgriffiths3-ctrl/mednet-spine#readme"
 }
